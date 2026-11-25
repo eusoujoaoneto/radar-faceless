@@ -1,0 +1,150 @@
+{
+  "slug": "strabomedia",
+  "order": 1,
+  "name": "STRABO",
+  "handle": "@strabomedia",
+  "url": "https://www.youtube.com/@strabomedia",
+  "channelId": "UCEPS4Oc-5EqlOp8IlfUhUZQ",
+  "monogram": "S",
+  "tagline": "The world is stranger than it looks. Borders, power, places, and stories hiding in plain sight.",
+  "niche": "Geopolítica explicada com mapas",
+  "subniche": "Geografia + poder + economia (explainer faceless)",
+  "language": "Inglês (público tier‑1: EUA, Reino Unido, Europa)",
+  "format": "Vídeos longos 9–12 min · narração + mapas ilustrados · sem rosto",
+  "joined": "2026-10-05",
+  "scannedAt": "2026-11-18",
+  "stats": { "subs": 8930, "views": 1705229, "videos": 13, "shorts": 0 },
+  "verdict": {
+    "label": "MODELAR COM AJUSTES",
+    "level": "go",
+    "headline": "Fórmula de embalagem excelente, mas o crescimento depende de um único viral sobre um tema de alto risco.",
+    "summary": "Em 44 dias, o STRABO fez 1,7 milhão de views com 13 vídeos. A fórmula de título com pergunta-paradoxo, a thumbnail de mapa ilustrado com um objeto simbólico e a duração acima de 8 minutos estão comprovadas e podem ser replicadas. O ponto fraco: 82% das views vêm de um único vídeo sobre muçulmanos e refugiados, um tema que toca grupos protegidos e tende a receber anúncios limitados. Os últimos 4 uploads ficaram abaixo de 2,5 mil views, o que sugere uma ressaca pós-viral: a audiência que chegou pela polêmica não se interessa pelo resto do catálogo. Modele a embalagem e a estrutura, mas troque os temas de religião e migração por curiosidades de geografia, economia e infraestrutura (o vídeo da Austrália, com 44 mil views, prova que isso funciona) e você terá a mesma viralidade com risco de monetização bem menor."
+  },
+  "scores": [
+    { "k": "viral", "label": "Potencial viral", "v": 90, "why": "Outlier de 92× a mediana e mais 4 vídeos acima de 3× a mediana em 6 semanas. O algoritmo testa e distribui esse formato." },
+    { "k": "pack", "label": "Embalagem (título + thumb)", "v": 86, "why": "Sistema visual reconhecível: mapa envelhecido, objeto simbólico e legenda de 2 a 3 palavras. O título faz uma pergunta que cria lacuna de curiosidade." },
+    { "k": "consist", "label": "Consistência de resultados", "v": 38, "why": "Mediana de ~15 mil views, mas 6 dos 13 vídeos ficaram abaixo de 2,5 mil. Muita variância, sem uma base estável." },
+    { "k": "safe", "label": "Segurança de monetização", "v": 58, "why": "Os temas de migração, religião, guerra e eleições caem nas regras de anúncios limitados. Existe risco de conteúdo inautêntico se a narração e o roteiro forem produzidos em massa com IA." },
+    { "k": "retention", "label": "Estrutura de retenção", "v": 78, "why": "Todos os vídeos têm capítulos, gancho nos primeiros 40 s e progressão em 'alavancas'. O ritmo é de um capítulo a cada 45–80 s." },
+    { "k": "model", "label": "Facilidade de modelar", "v": 88, "why": "Faceless, sem apresentador, com produção baseada em mapas e ilustração e assuntos infinitos tirados das notícias. Dá para replicar em português, espanhol ou alemão." },
+    { "k": "revenue", "label": "Diversificação de receita", "v": 72, "why": "Já vende produto próprio (STRABO MAPROOM, US$ 19) no topo da descrição e tem e-mail para patrocínios. Não depende só do AdSense." }
+  ],
+  "videos": [
+    { "id": "v5GaRcsXclY", "title": "Why America Needs Greenland More Than Ever?", "date": "2026-10-08", "views": 1101, "likes": 35, "comments": 5, "dur": 571, "topic": "Geopolítica EUA / Ártico", "hook": "Pergunta 'Why X needs Y'", "caption": "PRICELESS?", "risk": 1 },
+    { "id": "cXKgjJB3CAU", "title": "The Situation at NATO’s Weakest Point Could Spiral Out of Control", "date": "2026-10-10", "views": 136225, "likes": 426, "comments": 190, "dur": 570, "topic": "Militar / Europa (Suwałki Gap)", "hook": "Ameaça + ponto fraco", "caption": "IT'S OVER", "risk": 1 },
+    { "id": "iTpVoJwU894", "title": "Why Poland’s Rise Could Become Europe’s Biggest Problem", "date": "2026-10-12", "dateEst": true, "views": 73000, "likes": null, "comments": null, "dur": 600, "topic": "Economia / Europa", "hook": "Paradoxo (sucesso = problema)", "caption": "AT WHAT COST?", "risk": 1 },
+    { "id": "mVPJmNicvHg", "title": "Why Do Muslims Flee to Europe Instead of Rich Arab Countries?", "date": "2026-10-15", "views": 1397110, "likes": 27238, "comments": 5000, "dur": 618, "topic": "Migração / Religião", "hook": "Pergunta-paradoxo comparativa", "caption": "WHY NOT UAE?", "risk": 3 },
+    { "id": "3AxgsCyLa44", "title": "How Iran Could Crash the Global Economy Without Firing a Shot?", "date": "2026-10-18", "views": 15198, "likes": 122, "comments": 26, "dur": 519, "topic": "Energia / Oriente Médio", "hook": "Poder oculto ('without firing a shot')", "caption": "GLOBAL CHAOS!", "risk": 1 },
+    { "id": "T6ixOEpnL3E", "title": "Why France Never Stops Protesting?", "date": "2026-10-19", "views": 57227, "likes": 777, "comments": 111, "dur": 539, "topic": "Política / Europa", "hook": "Estereótipo transformado em pergunta", "caption": "AGAIN?!", "risk": 1 },
+    { "id": "Fo-auPzUV-A", "title": "Why Can't Europe Agree on One Refugee Policy?", "date": "2026-10-26", "views": 6788, "likes": 136, "comments": 26, "dur": 710, "topic": "Migração / UE", "hook": "Repetição do tema viral", "caption": "EUROPE FOR EUROPEANS (riscado)", "risk": 2 },
+    { "id": "3K0_VrK8x04", "title": "Why America Could Go to War With China Over a Rusty Ship?", "date": "2026-10-29", "dateEst": true, "views": 17000, "likes": null, "comments": null, "dur": 599, "topic": "Militar / Mar do Sul da China", "hook": "Contraste: guerra × objeto banal", "caption": "A WAR OVER THIS?", "risk": 1 },
+    { "id": "EtfmaLGnb5Y", "title": "Why Australia's West Coast Is Almost Empty (Except One City)", "date": "2026-11-02", "dateEst": true, "views": 44000, "likes": null, "comments": null, "dur": 613, "topic": "Geografia curiosa", "hook": "Anomalia geográfica visível no mapa", "caption": "IT'S TERRIFYING", "risk": 0 },
+    { "id": "IkOY2V4Rq5s", "title": "Why Poland Was Erased From the Map So Many Times", "date": "2026-11-04", "views": 1385, "likes": 30, "comments": 8, "dur": 707, "topic": "História / Europa", "hook": "Pergunta histórica", "caption": "COUNTRY DELETED", "risk": 0 },
+    { "id": "cLmtlcXD9nc", "title": "Trump Lost Congress. But He Still Controls This", "date": "2026-11-06", "views": 988, "likes": 22, "comments": 4, "dur": 587, "topic": "Política EUA (eleições)", "hook": "Notícia + poder oculto", "caption": "(caricatura)", "risk": 2 },
+    { "id": "F8o_BL29oVc", "title": "What If the War in Ukraine Had Never Started?", "date": "2026-11-09", "views": 1366, "likes": 26, "comments": 8, "dur": 573, "topic": "Guerra / contrafactual", "hook": "What if", "caption": "(Putin e Zelensky brindando)", "risk": 2 },
+    { "id": "lUpihTsLkUg", "title": "How Does a Country With ZERO Rivers Drink?", "date": "2026-11-14", "views": 2278, "likes": 18, "comments": 3, "dur": 394, "topic": "Geografia / Infraestrutura", "hook": "Fato absurdo + pergunta prática", "caption": "THEY BUILT A RIVER?!", "risk": 0 }
+  ],
+  "secrets": [
+    { "t": "A pergunta-paradoxo no título", "d": "Os títulos que funcionaram têm o formato 'Por que X faz Y em vez de Z?' ou 'Por que [sucesso] pode virar [problema]?'. O título cria uma tensão que o espectador sente que precisa resolver. 10 dos 13 títulos começam com Why/How/What If.", "ev": "Muslims→Europe (1,4 mi) · Poland's Rise (73 mil) · France protests (57 mil)" },
+    { "t": "Thumbnail: um mapa e um objeto simbólico", "d": "Fundo de mapa envelhecido com o país em vermelho e um único objeto que conta a história: tesoura (cortar o corredor), borracha (apagar a Polônia), etiqueta de preço (Groenlândia), corda (cabo de guerra EUA × China). Uma legenda branca ou amarela de 2 a 3 palavras numa caixa preta. A imagem dá para entender em 0,5 s, mesmo no celular.", "ev": "Suwałki 'IT'S OVER' (136 mil) · Australia 'IT'S TERRIFYING' (44 mil)" },
+    { "t": "Personagens-meme para temas emocionais", "d": "Nos temas sociais e de pessoas, o canal troca o mapa por personagens chorando no estilo wojak/meme. Isso gera reação emocional imediata e muitos comentários. Foi a thumbnail do viral de 1,4 milhão.", "ev": "Muslims: 5 mil comentários (0,36% das views, ~3× o normal)" },
+    { "t": "Temas das notícias tratados como conteúdo perene", "d": "Os temas pegam carona no noticiário (OTAN, Irã, Trump, Groenlândia), mas são explicados com geografia e história. Assim o vídeo continua sendo encontrado depois que a notícia passa.", "ev": "Suwałki e Iran seguem acumulando views semanas depois" },
+    { "t": "Duração de 9 a 12 minutos com capítulos", "d": "Todos os vídeos, menos um, têm mais de 8 minutos, o que libera anúncios no meio do vídeo (mid-rolls). São 8 a 12 capítulos com títulos descritivos, o que ajuda nos 'momentos-chave' da busca e dá ritmo à edição: um novo bloco a cada ~60 s.", "ev": "Média de 9:45 · capítulos em 100% dos vídeos analisados" },
+    { "t": "Funil de produto próprio na 1ª linha da descrição", "d": "A primeira linha de toda descrição vende o STRABO MAPROOM (12 estudos de caso interativos, 2 grátis, US$ 19). Depois vêm a sinopse, uma pergunta para os comentários e o e-mail de patrocínio. O canal monetiza o tráfego desde o dia 1, antes mesmo de entrar no YPP.", "ev": "Descrições de Suwałki, Muslims e France" },
+    { "t": "Pedido de comentário com debate", "d": "A descrição termina com uma pergunta aberta e polêmica ('Quem deveria assumir mais responsabilidade…?'). Isso aumenta os comentários, que são um sinal forte de engajamento para o algoritmo.", "ev": "Muslims: 'Share your view—and your reasoning—in the comments'" },
+    { "t": "Ritmo de 2 vídeos por semana", "d": "13 vídeos em 41 dias (~2,2 por semana). Esse volume dá ao algoritmo várias chances de achar um outlier sem cair em produção em massa.", "ev": "8/out → 14/nov" }
+  ],
+  "weaknesses": [
+    { "t": "Dependência extrema de um viral", "d": "Um único vídeo responde por ~82% de todas as views do canal. Se ele perder distribuição ou for desmonetizado, a receita do canal praticamente zera.", "sev": 3 },
+    { "t": "Ressaca pós-viral", "d": "Os 4 uploads mais recentes ficaram entre 1 mil e 2,3 mil views. A audiência trazida pela polêmica de migração não clica em temas como rios na Arábia ou o Congresso dos EUA. Os inscritos chegaram pelo tema, não pelo canal.", "sev": 3 },
+    { "t": "Baixa conversão em inscritos", "d": "São ~5,2 inscritos para cada mil views. Canais de explicação saudáveis costumam ficar entre 8 e 15. Os espectadores vieram pelo vídeo e não viram motivo para voltar.", "sev": 2 },
+    { "t": "Tema de maior sucesso é o de maior risco", "d": "O vídeo que viralizou generaliza sobre um grupo religioso ('Muslims'), um grupo protegido nas regras de discurso de ódio. A thumbnail mostra uma família muçulmana chorando, o que provavelmente leva a anúncios limitados (ícone amarelo) e é um tema que atrai comentários tóxicos.", "sev": 3 },
+    { "t": "Perda de identidade temática", "d": "O slogan promete geografia estranha ('The world is stranger than it looks'), mas os vídeos recentes viraram comentário político (Trump, contrafactual da Ucrânia). Esses tiveram as piores performances.", "sev": 2 },
+    { "t": "Like rate baixo no tráfego amplo", "d": "O Suwałki teve 0,31% de likes por view (136 mil views e só 426 likes). Isso indica distribuição em Início/Sugeridos para um público frio e pouco fiel.", "sev": 1 },
+    { "t": "Sem Shorts", "d": "Zero Shorts. O canal perde uma alavanca barata de descoberta e de reaproveitar mapas e trechos já produzidos.", "sev": 1 },
+    { "t": "Vídeo abaixo de 8 minutos", "d": "O 'Zero Rivers' tem 6:34. Abaixo de 8 minutos não há mid-rolls, então o RPM desse vídeo cai bastante.", "sev": 1 },
+    { "t": "Thumbnails exageradas", "d": "Legendas como 'IT'S TERRIFYING' (Austrália vazia) e 'IT'S OVER' exageram a promessa. Isso é aceitável se o vídeo entrega, mas um exagero que vira enganação esbarra na política de metadados enganosos e derruba a satisfação do espectador.", "sev": 1 }
+  ],
+  "policy": [
+    { "area": "Discurso de ódio (grupos protegidos)", "level": 3, "finding": "O título e a thumbnail do maior vídeo se referem a um grupo religioso inteiro ('Muslims') e mostram uma família chorando como caricatura. A thumbnail 'Europe for Europeans' riscada usa um slogan associado a movimentos extremistas.", "fix": "Fale de países, políticas e sistemas, não de grupos de pessoas. Por exemplo: 'Why Gulf States Don't Grant Asylum' em vez de 'Why Do Muslims…'. Nunca caricature um grupo protegido.", "ref": "Política de discurso de ódio: religião, etnia e status migratório são atributos protegidos." },
+    { "area": "Adequação a anunciantes (questões controversas)", "level": 3, "finding": "Migração, religião, guerra na Ucrânia e eleições nos EUA tendem a receber o ícone amarelo (anúncios limitados), mesmo em tom educativo, principalmente quando título e thumbnail são provocativos.", "fix": "Mantenha uma proporção de pelo menos 70% de temas 'verdes' (geografia, infraestrutura, economia, história). Use thumbnails sem sofrimento humano e títulos neutros nos temas sensíveis.", "ref": "Diretrizes de conteúdo adequado para anunciantes: questões controversas e eventos sensíveis." },
+    { "area": "Conteúdo inautêntico (antes 'repetitivo')", "level": 2, "finding": "O formato faceless com capítulos de nomes genéricos ('Conclusion: A complex legacy') e ritmo industrial sugere roteiro e voz assistidos por IA. Desde jul/2025, o YouTube desmonetiza canais com conteúdo produzido em massa e com pouca variação.", "fix": "Cada vídeo precisa de uma tese original, dados próprios, mapas desenhados para aquele roteiro e uma voz consistente (humana, ou IA de alta qualidade com edição real). Evite templates idênticos.", "ref": "YPP: política de conteúdo inautêntico (atualizada em 15/07/2025)." },
+    { "area": "Conteúdo alterado ou sintético (IA)", "level": 1, "finding": "As thumbnails são ilustrações claramente estilizadas, o que tem risco baixo. Se o vídeo usar imagens realistas geradas por IA de políticos reais ou de eventos, a divulgação no upload é obrigatória.", "fix": "Marque 'conteúdo alterado' sempre que houver pessoa real ou evento realista criado por IA. Prefira mapas e ilustrações claramente artísticas.", "ref": "Política de divulgação de conteúdo sintético realista." },
+    { "area": "Desinformação eleitoral", "level": 2, "finding": "'Trump Lost Congress…' é um tema eleitoral pós-midterms de 2026. Afirmações erradas sobre resultados ou processos eleitorais podem levar à remoção do vídeo.", "fix": "Cite as fontes na descrição, evite previsões e afirmações sobre fraude e prefira a explicação institucional (o que o Congresso pode ou não fazer).", "ref": "Política de desinformação eleitoral." },
+    { "area": "Violência e guerra", "level": 1, "finding": "Os vídeos usam mapas, não imagens de combate, o que tem risco baixo. A thumbnail com Putin e Zelensky brindando é sátira, mas sobre uma guerra ativa com vítimas, o que é sensível para anunciantes.", "fix": "Não use imagens reais de combate, feridos ou mortos. Na sátira de líderes em guerra ativa, prefira símbolos (bandeiras, peças de xadrez).", "ref": "Diretrizes para anunciantes: violência e eventos sensíveis." },
+    { "area": "Metadados enganosos / clickbait", "level": 1, "finding": "'IT'S TERRIFYING' (Austrália), 'IT'S OVER' e 'GLOBAL CHAOS!' prometem mais do que o vídeo entrega.", "fix": "Exagere a emoção, mas não o fato. A legenda tem que ser respondida dentro do vídeo nos primeiros 60 s.", "ref": "Política de spam e práticas enganosas: metadados enganosos." },
+    { "area": "Direitos autorais", "level": 0, "finding": "O visual é próprio, com mapas ilustrados, e não há sinais de clipes de terceiros.", "fix": "Mantenha mapas próprios (QGIS, Natural Earth em domínio público) e música de biblioteca licenciada.", "ref": "Política de conteúdo reutilizado e direitos autorais." }
+  ],
+  "money": {
+    "rpmLow": 2.0, "rpmHigh": 6.0, "monetizedShare": 0.75,
+    "notes": "A faixa de RPM é uma estimativa para geopolítica e educação em inglês com público tier‑1, já descontado o efeito de anúncios limitados no vídeo de migração. Não é dado real do canal.",
+    "watchHoursEst": 113000,
+    "streams": [
+      { "n": "AdSense (YPP)", "s": "provável", "d": "Elegível com folga: ~113 mil horas estimadas, contra as 4 mil exigidas, e mais de 1 mil inscritos." },
+      { "n": "Produto digital: MAPROOM (US$ 19)", "s": "ativo", "d": "12 estudos de caso interativos com link em todas as descrições. Converte o tráfego de nicho em receita direta." },
+      { "n": "Patrocínios", "s": "ativo", "d": "E-mail comercial na descrição. Geopolítica atrai VPNs, apps de notícias, Ground News, cursos e livros." },
+      { "n": "Membros / Patreon", "s": "ausente", "d": "Oportunidade: mapas em alta resolução e roteiros com fontes." }
+    ]
+  },
+  "model": {
+    "positioning": "Canal faceless de 'geografia que explica o mundo': anomalias de mapa, infraestrutura, economia e fronteiras. A mesma embalagem do STRABO, mas com temas no máximo amarelo-claro em risco de monetização.",
+    "duration": "9:00 – 11:30",
+    "cadence": "2 vídeos longos por semana + 3 Shorts reaproveitando mapas",
+    "titleFormulas": [
+      { "p": "Why Do [Grupo/País] [Ação] Instead of [Alternativa óbvia]?", "ex": "Why Do Ships Avoid the Shortest Route Across the Pacific?", "slots": ["Grupo/País", "Ação", "Alternativa óbvia"] },
+      { "p": "Why [País/Região] Is Almost Empty (Except [Exceção])", "ex": "Why Canada's North Is Almost Empty (Except One Road)", "slots": ["País/Região", "Exceção"] },
+      { "p": "Why [Sucesso de X] Could Become [Lugar]'s Biggest Problem", "ex": "Why Mexico's Factory Boom Could Become America's Biggest Problem", "slots": ["Sucesso de X", "Lugar"] },
+      { "p": "How Does a Country With ZERO [Recurso] [Necessidade]?", "ex": "How Does a Country With ZERO Farmland Feed Itself?", "slots": ["Recurso", "Necessidade"] },
+      { "p": "How [País] Could [Grande consequência] Without [Ação esperada]", "ex": "How Egypt Could Crash World Trade Without Closing the Suez Canal", "slots": ["País", "Grande consequência", "Ação esperada"] },
+      { "p": "Why [País/Grupo] Could [Conflito] Over a [Objeto banal]", "ex": "Why Two Nuclear Powers Keep Fighting Over a Glacier", "slots": ["País/Grupo", "Conflito", "Objeto banal"] },
+      { "p": "The Situation at [Lugar]'s Weakest Point Could [Consequência]", "ex": "The Situation at Europe's Weakest Energy Point Could Spiral Out of Control", "slots": ["Lugar", "Consequência"] }
+    ],
+    "thumb": [
+      { "k": "Fundo", "v": "Mapa com textura de papel envelhecido, oceanos azul-petróleo e o território-alvo em vermelho saturado" },
+      { "k": "Objeto-metáfora", "v": "UM objeto grande que conta a tese: tesoura, borracha, etiqueta de preço, corda, cano, cadeado" },
+      { "k": "Legenda", "v": "2 a 3 palavras em caixa preta, branco ou amarelo, fonte condensada pesada, em um canto (nunca no centro)" },
+      { "k": "Rótulos", "v": "No máximo 3 nomes de lugares em etiquetas brancas pequenas, dando contexto sem poluir" },
+      { "k": "Emoção", "v": "Personagens cartoon só para temas econômicos ou de infraestrutura. Nunca caricaturar religião, etnia ou migrantes" },
+      { "k": "Teste", "v": "Deve ser entendida em 64 px de largura. Teste A/B com 'Test & Compare' (3 variações)" }
+    ],
+    "script": [
+      { "seg": "Gancho + paradoxo", "s": 0, "e": 40, "d": "Apresente a pergunta do título com um número ou um fato chocante e prometa a resposta." },
+      { "seg": "Geografia do problema", "s": 40, "e": 100, "d": "Animação no mapa: onde fica e por que a geografia importa." },
+      { "seg": "Alavanca / causa 1", "s": 100, "e": 190, "d": "Primeira explicação com dado concreto e um mini-gancho para o próximo bloco." },
+      { "seg": "Alavanca / causa 2", "s": 190, "e": 280, "d": "Segunda camada, mais surpreendente que a primeira." },
+      { "seg": "Alavanca / causa 3", "s": 280, "e": 370, "d": "A virada: o fator que ninguém considera." },
+      { "seg": "Contraponto", "s": 370, "e": 440, "d": "O argumento do outro lado. Gera confiança e comentários." },
+      { "seg": "Consequências globais", "s": 440, "e": 520, "d": "Por que isso importa para quem está assistindo nos EUA ou na Europa." },
+      { "seg": "Resposta central", "s": 520, "e": 570, "d": "Responda ao título em 1 frase, cumprindo a promessa da thumbnail." },
+      { "seg": "Pergunta + próximo vídeo", "s": 570, "e": 600, "d": "Pergunta para os comentários e tela final para um vídeo relacionado." }
+    ],
+    "ideas": [
+      { "t": "Why Chile Is 4,300 km Long but Only 177 km Wide", "a": "Anomalia de mapa, no mesmo estilo do vídeo da Austrália", "r": 0 },
+      { "t": "How Does a Country With ZERO Farmland Feed Itself? (Singapore)", "a": "A fórmula 'ZERO [recurso]'", "r": 0 },
+      { "t": "Why Egypt Lives on Just 4% of Its Land", "a": "Geografia + população", "r": 0 },
+      { "t": "Why Nobody Lives in the Middle of Brazil's Map (Except One City)", "a": "Fórmula 'Almost Empty (Except)'", "r": 0 },
+      { "t": "How Panama Could Crash World Trade Without a Single Ship Sinking", "a": "Poder oculto em infraestrutura (seca no canal)", "r": 0 },
+      { "t": "Why Russia Can't Use Most of Its Coastline", "a": "Geografia como destino, com mapa forte", "r": 1 },
+      { "t": "Why Two Nuclear Powers Keep Fighting Over a Glacier (Siachen)", "a": "Contraste: guerra × objeto banal", "r": 1 },
+      { "t": "Why Norway Is Richer Than Sweden Now", "a": "Comparação entre vizinhos, com tensão sem polêmica", "r": 0 },
+      { "t": "Why Africa Looks Smaller on Every Map You've Seen", "a": "Curiosidade de cartografia com alto CTR", "r": 0 },
+      { "t": "Why Japan's Population Lives on 10% of Its Land", "a": "Anomalia geográfica", "r": 0 },
+      { "t": "How a Tiny Strait Controls 40% of Asia's Trade (Malacca)", "a": "Gargalo estratégico, como o Suwałki, mas sem guerra", "r": 0 },
+      { "t": "Why Germany's Rise in Weapons Could Become Europe's Biggest Question", "a": "Fórmula 'Rise → Problem' em versão mais neutra", "r": 1 }
+    ],
+    "avoid": [
+      "Generalizar grupos religiosos, étnicos ou migrantes no título ou na thumbnail",
+      "Caricatura de sofrimento humano real (refugiados, vítimas de guerra)",
+      "Contrafactuais e opiniões sobre guerras ativas ou eleições recentes",
+      "Slogans associados a extremismo, mesmo riscados",
+      "Vídeos abaixo de 8 minutos no formato longo",
+      "Roteiros e vozes de IA sem edição humana, com estrutura idêntica entre vídeos"
+    ],
+    "plan": [
+      { "ph": "Semana 1–2 · Fundação", "steps": ["Definir nicho 'geografia estranha + economia' e nome/branding", "Criar biblioteca de mapas-base (Natural Earth/QGIS) e 3 templates de thumbnail", "Escrever 6 roteiros com o esqueleto de 9 blocos", "Preparar voz (humana ou IA premium) e guia de pronúncia"] },
+      { "ph": "Semana 3–6 · Teste de embalagem", "steps": ["Publicar 2 longos/semana (8 vídeos), 70% temas verdes", "Testar 3 thumbnails por vídeo (Test & Compare)", "3 Shorts/semana cortando o 'fato chocante' de cada longo", "Registrar CTR e retenção de 30 s de cada vídeo no app"] },
+      { "ph": "Semana 7–10 · Dobrar o outlier", "steps": ["Identificar o vídeo com mais de 3× a mediana e fazer 3 variações do mesmo ângulo", "Criar playlist temática para segurar a audiência nova", "Ativar YPP e conferir os ícones de monetização de cada vídeo"] },
+      { "ph": "Mês 3+ · Escala segura", "steps": ["Lançar produto digital (atlas, PDF de mapas) e kit de mídia para patrocínios", "Replicar o canal em PT/ES com o mesmo pipeline", "Rever o placar de risco de cada pauta antes de produzir"] }
+    ]
+  }
+}
